@@ -104,6 +104,10 @@ a:hover {
   text-transform: uppercase;
 }
 
+.btn-main:hover {
+  background-color:#fff;
+}
+
 a {
   color: #fff;
   text-decoration: none;

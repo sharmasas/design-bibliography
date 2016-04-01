@@ -10,8 +10,7 @@ a:hover {
 .header {
   background-color:#111112;
   position: fixed;
-  width: auto;
-  background-size: cover;
+  min-width: 2000px;
 }
 
 .container {

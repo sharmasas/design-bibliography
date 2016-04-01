@@ -54,7 +54,7 @@ a:hover {
 .navigation {
   margin: 0;
   padding: 20px 0;
-  display: static;
+  position: static;
 }
 
 .navigation li {

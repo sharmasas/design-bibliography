@@ -9,7 +9,7 @@ a:hover {
 
 .header {
   background-color:#111112;
-  position: fixed;
+  position: static;
   min-width: 2000px;
 }
 

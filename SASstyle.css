@@ -106,7 +106,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background-color:#fff;
+  color:#fff;
 }
 
 a {
@@ -136,6 +136,15 @@ a {
   border:1px solid #111112;
   text-align: center;
   margin-bottom: 30px;
+}
+
+.btn-white:hover {
+  background-color: #111112;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  border:1px solid #111112;
+  text-align: center;
 }
 
 .supporting {

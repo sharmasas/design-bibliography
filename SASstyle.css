@@ -11,6 +11,7 @@ a:hover {
   background-color:#111112;
   position: fixed;
   width: auto;
+  background-size: cover;
 }
 
 .container {

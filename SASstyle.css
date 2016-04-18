@@ -119,6 +119,11 @@ a {
   text-transform: uppercase;
 }
 
+a:hover {
+  color: #428bca;
+  text-decoration: none;
+}
+
 #blue {
   color:#428bca;
   font-weight:900;
@@ -129,6 +134,8 @@ a {
   background-color: #fff;
   display: block;
   color: #111112;
+  max-width:500px;
+  margin: auto;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 18px;

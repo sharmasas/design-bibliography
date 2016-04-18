@@ -110,11 +110,11 @@ a:hover {
 }
 
 .jumbotron a {
-  color:#428bca;
+  color:#fff;
 }
 
 .jumbotron a :hover {
-  color:#fff;
+  color:#428bca;
 }
 
 a {

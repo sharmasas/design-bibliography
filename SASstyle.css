@@ -109,6 +109,10 @@ a:hover {
   text-decoration: none;
 }
 
+.jumbotron a {
+  color:#428bca;
+}
+
 .jumbotron a :hover {
   color:#fff;
 }
